@@ -4,7 +4,7 @@
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando .NetCore, Docker, Kubernetes...
 - 📫 Contate-me no e-mail: zecaoliveirabr85@gmail.com
-- 😄 Pronouns: ele/dele
+
 
 <p align="center"> 
  <strong>
