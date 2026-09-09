@@ -11,7 +11,7 @@ Trabalho onde arquitetura clássica encontra IA em produção — agentes, MCP, 
 
 ## Escrevo em
 
-**[zeca.systems](https://zeca.systems)** — Ensaios técnicos, ADRs e casos reais. MCP em .NET, arquitetura de agentes, o que os tutoriais deixam de fora.
+**[zecabr.github.io](https://zecabr.github.io)** — Ensaios técnicos, ADRs e casos reais. MCP em .NET, arquitetura de agentes, o que os tutoriais deixam de fora.
 
 ## Como trabalho
 
@@ -23,6 +23,6 @@ Prefiro escrever a decisão antes do código, brigar por escopo pequeno em cada 
 
 ## Contato
 
-- Site — [zeca.systems](https://zeca.systems)
+- Site — [zecabr.github.io](https://zecabr.github.io)
 - LinkedIn — [linkedin.com/in/…](https://linkedin.com/in/…) *← substituir pela sua URL real*
 - Email — zecaoliveirabr85@gmail.com
