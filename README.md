@@ -24,5 +24,5 @@ Prefiro escrever a decisão antes do código, brigar por escopo pequeno em cada 
 ## Contato
 
 - Site — [zecabr.github.io](https://zecabr.github.io)
-- LinkedIn — [linkedin.com/in/…](https://linkedin.com/in/…) *← substituir pela sua URL real*
+- LinkedIn — [https://www.linkedin.com/in/jos%C3%A9-maria-de-oliveira-filho-00284612a/) 
 - Email — zecaoliveirabr85@gmail.com
