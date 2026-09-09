@@ -1,26 +1,28 @@
-### Olá! Eu sou o Zeca
+# Zeca — Arquiteto de plataformas de IA aplicada
 
+**12 anos em .NET · MCP, agentes, DevEx · IOB**
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando .NetCore, Docker, Kubernetes...
-- 📫 Contate-me no e-mail: zecaoliveirabr85@gmail.com
+Trabalho onde arquitetura clássica encontra IA em produção — agentes, MCP, evals, guardrails, tracing. Meu ponto ótimo é fazer LLM rodar como parte séria de um sistema, não como demo.
 
+## Projetos em destaque
 
-<p align="center"> 
- <strong>
-  Professional skills
-  </strong>
-</p>
-<p align="center"> 
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="max-width:100%;"></a>
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width:100%;"></a>  
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" style="max-width:100%;"></a>
-</p>
-<div>
-  <a href="https://github.com/zecabr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zecabr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecabr&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- **[agent-forge](https://github.com/zecabr/agent-forge)** — Orquestrador multi-agente MCP-first, em .NET. Uma opinião concreta sobre como um agent framework MCP-first deve parecer no mundo .NET.
+- **[event-spine](https://github.com/zecabr/event-spine)** — Backbone de eventos com outbox, DLQ e projeções. Referência dos padrões clássicos de sistemas distribuídos em .NET 9.
+
+## Escrevo em
+
+**[zeca.systems](https://zeca.systems)** — Ensaios técnicos, ADRs e casos reais. MCP em .NET, arquitetura de agentes, o que os tutoriais deixam de fora.
+
+## Como trabalho
+
+Prefiro escrever a decisão antes do código, brigar por escopo pequeno em cada release, e defender cada trade-off em ADR público. Se um projeto meu não tem `docs/adr/` não deveria estar em produção.
+
+## Stack central
+
+.NET 9 · TypeScript / React · Anthropic Claude · OpenAI · AWS Bedrock · MCP · OpenTelemetry · Postgres · Docker
+
+## Contato
+
+- Site — [zeca.systems](https://zeca.systems)
+- LinkedIn — [linkedin.com/in/…](https://linkedin.com/in/…) *← substituir pela sua URL real*
+- Email — zecaoliveirabr85@gmail.com
